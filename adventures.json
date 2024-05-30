@@ -1,0 +1,38 @@
+[
+  {
+    "type": "caught up in events",
+    "description": "the hero is caught up in events outside their control",
+    "kinds": [
+      {
+        "type": "marked for death",
+        "description": "someone wants the hero or someone else dead, you must save them",
+        "who": {},
+        "opposition": {}
+      },
+      {
+        "type": "blackmail",
+        "description": "someone wants the hero dead ",
+        "who": {},
+        "goal": {}
+      },
+      {
+        "type": "escape",
+        "description": "someone wants the hero dead ",
+        "who": {},
+        "goal": {}
+      }
+    ]
+  },
+  {
+    "type": "employment",
+    "description": "The hero is hired by an employer to do a job"
+  },
+  {
+    "type": "exploration",
+    "descrption": "The hero needs to explore a location to achieve a goal"
+  },
+  {
+    "type": "civic affair",
+    "description": "The hero is asked to help a community in need"
+  }
+]
